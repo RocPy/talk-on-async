@@ -1,5 +1,5 @@
-talk-on-async
-=============
+Josh's talk on AsyncIO
+======================
 
 Here are the main resources I used while learning [AsyncIO](https://docs.python.org/3/library/asyncio.html) for the talk
 
