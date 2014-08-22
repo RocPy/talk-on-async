@@ -11,7 +11,7 @@ An excellent overview of what is actually going on behind the scenes:
 [Tulip: Async I/O for Python 3](https://www.youtube.com/watch?v=1coLC-MUCJc) - A talk [Guido](https://www.python.org/~guido/) gave at the San Francisco Python User Group
 
 [PEP-3156](http://legacy.python.org/dev/peps/pep-3156/) - The Python Enhancemnent Proposal (PEP) for AsyncIO. It's extremely helpful in understanding the intent of the module, though the order of items may seem a little random. I would recomend starting with the following
-* [Abstract](http://legacy.python.org/dev/peps/pep-3156/#abstract) and [Introduction](http://legacy.python.org/dev/peps/pep-3156/#introduction) sections, though you can probably skip the Transports and Protocols initially within the Introduction section
+* [Abstract](http://legacy.python.org/dev/peps/pep-3156/#abstract) and [Introduction](http://legacy.python.org/dev/peps/pep-3156/#introduction) sections, though you can probably skip the Transports and Protocols within the Introduction section initially
 * [Event Loop Policy: Getting and Setting the Current Event Loop](http://legacy.python.org/dev/peps/pep-3156/#event-loop-policy-getting-and-setting-the-current-event-loop)
 * [Event Loop Methods Overview](http://legacy.python.org/dev/peps/pep-3156/#event-loop-methods-overview) and [Event Loop Methods](http://legacy.python.org/dev/peps/pep-3156/#event-loop-methods)
 * [Futures](http://legacy.python.org/dev/peps/pep-3156/#futures)
